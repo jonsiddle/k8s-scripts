@@ -3,7 +3,7 @@
 ## `provision-1n-k8s.sh` - provision a single node k8s cluster
 
 1. Log in to the node to be
-2. run::
+2. run:
 ```bash
 curl -fsSL https://raw.githubusercontent.com/jonsiddle/k8s-scripts/main/provision-1n-k8s.sh | bash
 ```
